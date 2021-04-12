@@ -1,15 +1,8 @@
 Origin: panguin6010's Repo
-
-Label: [name]
-
+Label: panguin6010
 Suite: stable
-
 Version: 1.0
-
-Codename: [name]
-
+Codename: panguin6010
 Architecture: iphoneos-arm
-
 Components: main
-
-Description: [Repo Description], what shows on Cydia pages for your tweaks
+Description: Tweaks I made :) for help, PM me on reddit: /u/panguin6010

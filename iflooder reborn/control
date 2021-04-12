@@ -1,0 +1,9 @@
+Package: com.panguin6010.iflooder_reborn
+Name: iFlooder reborn
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: A tweak to spam in the messages app.
+Maintainer: panguin6010
+Author: panguin6010
+Section: pranks
